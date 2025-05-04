@@ -1,0 +1,82 @@
+﻿  Abbasov_Elkhan.cpp
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(52,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(53,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(53,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(65,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(65,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(73,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(77,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(78,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(79,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(80,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(83,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(87,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(88,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(89,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(93,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(94,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(95,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(96,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(100,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(101,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(102,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(103,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(107,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(108,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(109,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(115,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(116,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(155,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(156,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(157,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(158,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(162,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(187,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(187,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(187,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(188,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(188,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(189,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(189,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(190,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(190,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(191,48): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(191,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(192,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(192,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(196,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(196,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(196,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(198,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(198,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(199,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(199,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(200,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(200,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(201,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(201,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(205,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(206,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(209,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(211,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(213,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(220,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(221,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(225,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(225,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(226,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(228,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(230,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(234,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(236,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(236,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(236,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(244,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(251,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(251,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(251,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\Abbasov_Elkhan\Abbasov_Elkhan.cpp(263,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Abbasov_Elkhan.vcxproj -> C:\oldwin\Bilkosh\2024-2025-Spring\CTIS164\HW2\Abbasov_Elkhan\x64\Debug\Abbasov_Elkhan.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
